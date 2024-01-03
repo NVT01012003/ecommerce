@@ -1,0 +1,8 @@
+{
+    "name": "ecommerce",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "trangnv",
+    "repository": "https://github.com/NVT01012003/ecommerce.git",
+    "license": "MIT"
+}
